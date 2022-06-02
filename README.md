@@ -23,4 +23,4 @@ Logistic Regression : Used for Binary Classification
  - 0.9238
 
 # Conclusion 
-The model is not overfitted or underfitted as there is not much difference between the Accuracy Scores.
+The model is not overfitted or underfitted as there is not much difference between the Accuracy Scores of train and test.
